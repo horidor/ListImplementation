@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 project(ListImplementation VERSION 0.1.0)
 
 set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin/test")
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin/")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin/output")
 enable_testing()
 
@@ -18,13 +18,8 @@ link_libraries(listlib)
 
 if (WIN32)
     add_custom_command(TARGET listDemo POST_BUILD       
-        COMMAND ${CMAKE_COMMAND} -E copy_if_different  
-            "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
-            "${PROJECT_SOURCE_DIR}/bin/output")
-
-    add_custom_command(TARGET listDemo POST_BUILD       
-        COMMAND ${CMAKE_COMMAND} -E copy_if_different  
-            "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
+        COMMAND ${CMAKE_COMMAND} -E copy  
+            "${PROJECT_SOURCE_DIR}/bin/output/liblistlib.dll"      
             "${PROJECT_SOURCE_DIR}/bin/test")
 endif()
 
