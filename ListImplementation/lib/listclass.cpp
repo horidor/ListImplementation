@@ -22,6 +22,8 @@ int List::length() {
 		current = current->next;
 	}
 
+	if (this->current->content != '/0') count++;
+
 	return count;
 }
 
