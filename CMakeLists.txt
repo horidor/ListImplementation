@@ -16,15 +16,17 @@ include_directories(ListImplementation/lib)
 
 link_libraries(listlib)
 
-add_custom_command(TARGET listDemo POST_BUILD       
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different  
-        "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
-        "${PROJECT_SOURCE_DIR}/bin/output")
+if (WIN32)
+    add_custom_command(TARGET listDemo POST_BUILD       
+        COMMAND ${CMAKE_COMMAND} -E copy_if_different  
+            "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
+            "${PROJECT_SOURCE_DIR}/bin/output")
 
-add_custom_command(TARGET listDemo POST_BUILD       
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different  
-        "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
-        "${PROJECT_SOURCE_DIR}/bin/test")
+    add_custom_command(TARGET listDemo POST_BUILD       
+        COMMAND ${CMAKE_COMMAND} -E copy_if_different  
+            "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
+            "${PROJECT_SOURCE_DIR}/bin/test")
+endif()
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
