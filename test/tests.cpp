@@ -20,8 +20,7 @@ TEST_CASE("get method testing") {
     List Testing('g');
 
     SECTION("checking get") {
-        
-        REQUIRE_THROWS(Testing.get(0));
+        REQUIRE_NOTHROW(Testing.get(0));
         REQUIRE(Testing.get(0) == 'g');
     }
 
@@ -38,7 +37,7 @@ TEST_CASE("get method testing") {
 TEST_CASE("append method testing") {
     List Testing('g');
     Testing.append('c');
-    
+
     SECTION("checking append-length") {
         
         REQUIRE(Testing.length() == 2);

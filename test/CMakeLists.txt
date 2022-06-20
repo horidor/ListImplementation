@@ -20,4 +20,4 @@ include_directories("${CMAKE_SOURCE_DIR}/ListImplementation/lib")
 include(Catch)
 include(CTest)
 
-catch_discover_tests(testing)
+catch_discover_tests(testing REPORTER junit)
