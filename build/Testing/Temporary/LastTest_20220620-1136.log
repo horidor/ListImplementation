@@ -1,0 +1,18 @@
+Start testing: Jun 20 15:24 Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ (Ð»ÐµÑÐ¾)
+----------------------------------------------------------
+1/1 Testing: Length of an array is correct
+1/1 Test: Length of an array is correct
+Command: "E:/labs/ListImplementation/bin/testing.exe" "Length of an array is correct"
+Directory: E:/labs/ListImplementation/build/test
+"Length of an array is correct" start time: Jun 20 15:24 Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ (Ð»ÐµÑÐ¾)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Length of an array is correct" end time: Jun 20 15:24 Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ (Ð»ÐµÑÐ¾)
+"Length of an array is correct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 20 15:24 Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ (Ð»ÐµÑÐ¾)

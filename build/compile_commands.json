@@ -1,0 +1,402 @@
+[
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/ListImplementation/lib -g -std=gnu++20 -o CMakeFiles\\ListImplementation.dir\\main.cpp.obj -c E:\\labs\\ListImplementation\\main.cpp",
+  "file": "E:\\labs\\ListImplementation\\main.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -Dlistlib_EXPORTS -g -std=gnu++20 -o ListImplementation\\lib\\CMakeFiles\\listlib.dir\\listclass.cpp.obj -c E:\\labs\\ListImplementation\\ListImplementation\\lib\\listclass.cpp",
+  "file": "E:\\labs\\ListImplementation\\ListImplementation\\lib\\listclass.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/ListImplementation/lib -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -std=gnu++20 -o test\\CMakeFiles\\testing.dir\\tests.cpp.obj -c E:\\labs\\ListImplementation\\test\\tests.cpp",
+  "file": "E:\\labs\\ListImplementation\\test\\tests.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_automake.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_automake.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_automake.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_common_base.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_common_base.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_common_base.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_compact.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_compact.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_compact.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_console.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_console.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_console.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_cumulative_base.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_junit.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_junit.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_junit.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_multi.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_multi.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_multi.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_registrars.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_registrars.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_registrars.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_sonarqube.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_streaming_base.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_tap.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_tap.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_tap.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_teamcity.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_xml.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_xml.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_xml.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_approx.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_approx.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_approx.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_assertion_handler.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_assertion_handler.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_assertion_handler.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_assertion_result.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_assertion_result.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_assertion_result.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_clara.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_clara.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_clara.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_commandline.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_commandline.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_commandline.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_source_line_info.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_source_line_info.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_source_line_info.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_config.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_config.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_config.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_case_insensitive_comparisons.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_case_insensitive_comparisons.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_case_insensitive_comparisons.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_console_colour.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_console_colour.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_console_colour.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_context.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_context.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_context.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debug_console.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debug_console.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debug_console.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debugger.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debugger.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debugger.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enforce.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enforce.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enforce.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enum_values_registry.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enum_values_registry.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enum_values_registry.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_exception_translator_registry.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_exception_translator_registry.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_exception_translator_registry.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_fatal_condition_handler.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_floating_point_helpers.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_floating_point_helpers.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_floating_point_helpers.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_istream.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_istream.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_istream.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_list.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_list.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_list.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_floating_point.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_floating_point.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_floating_point.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_string.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_string.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_string.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_templated.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_templated.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_templated.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_message.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_message.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_message.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_output_redirect.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_output_redirect.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_output_redirect.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_registry_hub.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_registry_hub.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_registry_hub.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_number_generator.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_random_number_generator.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_random_number_generator.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_seed_generation.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_random_seed_generation.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_random_seed_generation.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_registry.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reporter_registry.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reporter_registry.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_spec_parser.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reporter_spec_parser.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reporter_spec_parser.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_result_type.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_result_type.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_result_type.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_run_context.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_run_context.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_run_context.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_section.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_section.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_section.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stdstreams.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stdstreams.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stdstreams.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_session.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_session.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_session.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_singletons.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_singletons.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_singletons.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reusable_string_stream.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reusable_string_stream.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reusable_string_stream.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stringref.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stringref.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stringref.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_string_manip.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_string_manip.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_string_manip.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_tag_alias_registry.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_tag_alias_registry.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_tag_alias_registry.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_case_info.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_case_info.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_case_info.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_registry_impl.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_tracker.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_tracker.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_tracker.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_registry.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_registry.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_registry.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_textflow.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_textflow.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_textflow.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_spec.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_spec.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_spec.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_spec_parser.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_spec_parser.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_spec_parser.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_timer.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_timer.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_timer.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_tostring.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_tostring.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_tostring.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_totals.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_totals.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_totals.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_version.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_version.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\catch_version.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_wildcard_pattern.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_wildcard_pattern.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_wildcard_pattern.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_xmlwriter.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_xmlwriter.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_xmlwriter.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_info_hasher.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_info_hasher.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_info_hasher.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generators_random.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\generators\\catch_generators_random.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\generators\\catch_generators_random.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_stats.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\detail\\catch_stats.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\detail\\catch_stats.cpp"
+},
+{
+  "directory": "E:/labs/ListImplementation/build",
+  "command": "E:\\msys64\\mingw64\\bin\\g++.exe -IE:/labs/ListImplementation/build/_deps/catch2-src/src/catch2/.. -IE:/labs/ListImplementation/build/generated-includes -g -ffile-prefix-map=E:/labs/ListImplementation/build/_deps/catch2-src=. -std=gnu++20 -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj -c E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_main.cpp",
+  "file": "E:\\labs\\ListImplementation\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_main.cpp"
+}
+]

@@ -1,0 +1,4 @@
+Length 0 0
+Length of an array is correct 0 0
+---
+Length of an array is correct
