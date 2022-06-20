@@ -8,12 +8,12 @@ enable_testing()
 add_subdirectory(ListImplementation/lib)
 add_subdirectory(test)
 
-add_executable(ListImplementation main.cpp)
+add_executable(listDemo main.cpp)
 
-target_link_libraries(ListImplementation listlib)
+target_link_libraries(listDemo listlib)
 include_directories(ListImplementation/lib)
 
-add_custom_command(TARGET ListImplementation POST_BUILD        # Adds a post-build event to MyTest
+add_custom_command(TARGET listDemo POST_BUILD        # Adds a post-build event to MyTest
     COMMAND ${CMAKE_COMMAND} -E copy_if_different  # which executes "cmake - E copy_if_different..."
         "${PROJECT_SOURCE_DIR}/build/bin/"      # <--this is in-file
         "${PROJECT_SOURCE_DIR}/bin/")
