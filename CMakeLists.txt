@@ -2,7 +2,8 @@ cmake_minimum_required(VERSION 3.0.0)
 project(ListImplementation VERSION 0.1.0)
 
 set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin")
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin/test")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin/output")
 enable_testing()
 
 add_subdirectory(ListImplementation/lib)
@@ -13,10 +14,17 @@ add_executable(listDemo main.cpp)
 target_link_libraries(listDemo listlib)
 include_directories(ListImplementation/lib)
 
-add_custom_command(TARGET listDemo POST_BUILD        # Adds a post-build event to MyTest
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different  # which executes "cmake - E copy_if_different..."
-        "${PROJECT_SOURCE_DIR}/build/bin/"      # <--this is in-file
-        "${PROJECT_SOURCE_DIR}/bin/")
+link_libraries(listlib)
+
+add_custom_command(TARGET listDemo POST_BUILD       
+    COMMAND ${CMAKE_COMMAND} -E copy_if_different  
+        "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
+        "${PROJECT_SOURCE_DIR}/bin/output")
+
+add_custom_command(TARGET listDemo POST_BUILD       
+    COMMAND ${CMAKE_COMMAND} -E copy_if_different  
+        "${PROJECT_SOURCE_DIR}/build/ListImplementation/lib/liblistlib.dll"      
+        "${PROJECT_SOURCE_DIR}/bin/test")
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
