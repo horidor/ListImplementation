@@ -17,6 +17,8 @@ class List {
 		List(char insert);
 
 		int length();
+		void append(char insert);
+		char get(int index);
 
 		
 
